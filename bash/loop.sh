@@ -1,4 +1,4 @@
-Loop Example
+# Loop Example
 
 #!/bin/bash
 
