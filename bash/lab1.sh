@@ -8,8 +8,8 @@
 CONFIG="$1"
 COMMAND="$2"
 
-read CONFIG
-read COMMAND
+"Enter CONFIG" read CONFIG
+"Entere COMMMAND" read COMMAND
 
 # Get the valid sites available in the Apache2 folder
 VHOSTS_PATH=/etc/apache2/sites-available/*.conf
